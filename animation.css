@@ -1,0 +1,22 @@
+/*
+style sheet for ASCII Animation page
+*/
+
+textarea {
+	margin-left: 5%;
+	margin-right: 5%;
+	width: 90%;
+	height: 400px;
+	font-family: monospace;
+	font-size: 12pt;
+	font-weight: bold;
+	border: none;
+}
+
+fieldset {
+	border: 5px solid black;
+	display: inline;
+}
+
+
+	
