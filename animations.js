@@ -623,9 +623,10 @@ var dive = "  o\n" +
     ".,.,,,,.,.,,.,|..|.,,,,.,..,,.,.,,.,.\\o/,.,\n";
 
 
+
 var ANIMATIONS = [];
 ANIMATIONS["Blank"] = ANIMATIONS["blank"] = "";
-ANIMATIONS["Custom"] = ANIMATIONS["custom"] = custom;   
+ANIMATIONS["Custom"] = ANIMATIONS["custom"] = custom;
 ANIMATIONS["Exercise"] = ANIMATIONS["exercise"] = exercise;
 ANIMATIONS["Juggler"] = ANIMATIONS["juggler"] = juggler;
 ANIMATIONS["Bike"] = ANIMATIONS["bike"] = bike;
